@@ -20,7 +20,7 @@
   ```
 
 ## TODO
- * [] ~~兼容性~~
+ * [ ] ~~兼容性~~
  * [x] Layout
  * [x] Router
  * [x] ESlint & Prettier
